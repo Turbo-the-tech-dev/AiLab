@@ -1,0 +1,2 @@
+# Using kube-diagrams (node package)
+npx kube-diagrams -f ./k8s-manifests/ -o diagrams/ --format mermaid
